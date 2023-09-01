@@ -15,6 +15,7 @@ const EmployeesList = () => {
           <th>EmpID</th>
           <th>Name</th>
           <th>Designation</th>
+          
         </tr>
       </thead>
       <tbody>
